@@ -17,8 +17,12 @@ I have 3+ years of experience building high-performing websites, managing server
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
-
-Divi · Elementor · WPBakery · Go High Level
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B00?style=flat&logo=gohighlevel&logoColor=white)
+![Divi](https://img.shields.io/badge/Divi-8E44AD?style=flat&logo=elegantthemes&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ## Experience
 
