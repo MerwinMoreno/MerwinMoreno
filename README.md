@@ -16,7 +16,7 @@ I have 3+ years of experience building high-performing websites, managing server
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-8840FF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjU2MCAzMDAgODgwIDUyMCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTY0NSAzMjZINzc1UTg1NSAzMjYgODU1IDQxMFY2MDBMOTYwIDM5NVE5OTUgMzI2IDEwNTUgMzI2UTExMzMgMzI2IDExMzMgNDEwVjYwMEwxMjQ1IDM5MFExMjg1IDMyNiAxMzQwIDMyNlExNDI1IDMyNiAxNDIzIDM4NVExNDIwIDQxMCAxNDA1IDQzNUwxMjQ1IDcxMFExMjAwIDc5MCAxMTIwIDc5OEgxMTEwUTEwMDUgNzkwIDEwMDUgNjkwVjU3OEw5MzUgNzEwUTg5MCA3OTUgODEwIDc5OFE3MDAgNzkwIDY5NiA2OTBWNDUySDY0NVE1NzUgNDUwIDU3NSAzODhRNTc3IDMyNiA2NDUgMzI2WiIvPjwvc3ZnPg==)
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B00?style=flat&logo=gohighlevel&logoColor=white)
 ![Divi](https://img.shields.io/badge/Divi-8E44AD?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjciLz48cGF0aCBkPSJNMzQgMzFoMTdhMTkgMTkgMCAwIDEgMCAzOEgzNHoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI4IiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
